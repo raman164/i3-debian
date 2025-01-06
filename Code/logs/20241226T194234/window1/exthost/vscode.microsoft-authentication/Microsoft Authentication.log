@@ -1,0 +1,22 @@
+2024-12-26 19:42:40.210 [info] Acquired MSAL enablement value from default. Value: false
+2024-12-26 19:42:41.196 [error] [email offline_access openid profile] 'f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:00030000D4EB3309/7ac6ef8f-0cd5-420a-bcc7-ae70c0b240bd' Refreshing token failed: {"error":"invalid_grant","error_description":"AADSTS700082: The refresh token has expired due to inactivity. The token was issued on 2024-03-19T17:30:48.1884112Z and was inactive for 90.00:00:00. Trace ID: 19d2e0b7-4a12-4d78-bf35-2f7a9e292a00 Correlation ID: d09bc74e-a7e3-4566-896d-8206d1ebd28d Timestamp: 2024-12-27 00:42:41Z","error_codes":[700082],"timestamp":"2024-12-27 00:42:41Z","trace_id":"19d2e0b7-4a12-4d78-bf35-2f7a9e292a00","correlation_id":"d09bc74e-a7e3-4566-896d-8206d1ebd28d","error_uri":"https://login.microsoftonline.com/error?code=700082"}
+2024-12-26 19:42:41.205 [error] Error: {"error":"invalid_grant","error_description":"AADSTS700082: The refresh token has expired due to inactivity. The token was issued on 2024-03-19T17:30:48.1884112Z and was inactive for 90.00:00:00. Trace ID: 19d2e0b7-4a12-4d78-bf35-2f7a9e292a00 Correlation ID: d09bc74e-a7e3-4566-896d-8206d1ebd28d Timestamp: 2024-12-27 00:42:41Z","error_codes":[700082],"timestamp":"2024-12-27 00:42:41Z","trace_id":"19d2e0b7-4a12-4d78-bf35-2f7a9e292a00","correlation_id":"d09bc74e-a7e3-4566-896d-8206d1ebd28d","error_uri":"https://login.microsoftonline.com/error?code=700082"}
+	at C.fetchTokenResponse (/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:260398)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async C.doRefreshToken (/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:256695)
+	at async /usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:245369
+	at async Promise.allSettled (index 0)
+	at async C.initialize (/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:245900)
+	at async t.activate (/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:284114)
+	at async t.activate (/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js:2:281867)
+	at async K0.n (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4447)
+	at async K0.m (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4410)
+	at async K0.l (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:3866)
+2024-12-26 19:42:41.205 [info] [email offline_access openid profile] 'f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:00030000D4EB3309/7ac6ef8f-0cd5-420a-bcc7-ae70c0b240bd' Logging out of session
+2024-12-26 19:42:41.205 [info] [email offline_access openid profile] 'f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:00030000D4EB3309/7ac6ef8f-0cd5-420a-bcc7-ae70c0b240bd' Logged out of session successfully!
+2024-12-26 19:42:41.257 [info] Getting sessions for all scopes...
+2024-12-26 19:42:41.257 [info] Got 0 sessions for all scopes...
+2024-12-26 19:42:41.257 [info] Getting sessions for all scopes...
+2024-12-26 19:42:41.257 [info] Got 0 sessions for all scopes...
+2024-12-26 19:42:41.258 [info]  for undefined
+2024-12-26 19:42:41.258 [info] [email offline_access openid profile] Got 0 sessions

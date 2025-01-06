@@ -1,0 +1,9 @@
+2024-12-26 19:42:38.505 [info] Experiment 'pythonDiscoveryUsingWorkers' is active
+2024-12-26 19:42:38.505 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-12-26 19:42:38.505 [info] Experiment 'pythonREPLSmartSend' is active
+2024-12-26 19:42:38.505 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-12-26 19:42:38.505 [info] Experiment 'pythonTestAdapter' is active
+2024-12-26 19:42:38.583 [info] Default formatter is set to null for workspace /home/rb/python
+2024-12-26 19:42:38.618 [info] Test server listening.
+2024-12-26 19:42:38.619 [info] Python interpreter path: /bin/python3
+2024-12-26 19:42:42.196 [info] Starting Pylance language server.

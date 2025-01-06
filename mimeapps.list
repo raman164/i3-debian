@@ -1,0 +1,9 @@
+[Default Applications]
+application/x-executable=geany.desktop
+text/plain=geany.desktop
+
+[Added Associations]
+application/x-executable=geany.desktop;
+application/x-shellscript=geany.desktop;micro.desktop;
+application/vnd.debian.binary-package=gdebi.desktop;
+text/plain=geany.desktop;

@@ -1,0 +1,82 @@
+2024-12-26 19:42:38.533 [error] [/home/rb/.vscode/extensions/s-nlf-fh.glassit-0.2.6]: Failed to parse /home/rb/.vscode/extensions/s-nlf-fh.glassit-0.2.6/package.json: [0, 0] Value expected.
+2024-12-26 19:42:41.498 [info] Getting Manifest... antfu.theme-vitesse
+2024-12-26 19:42:41.501 [info] Getting Manifest... equinusocio.vsc-material-theme
+2024-12-26 19:42:41.503 [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+2024-12-26 19:42:41.505 [info] Getting Manifest... github.github-vscode-theme
+2024-12-26 19:42:41.507 [info] Getting Manifest... ms-python.debugpy
+2024-12-26 19:42:41.509 [info] Getting Manifest... ms-python.python
+2024-12-26 19:42:41.513 [info] Getting Manifest... ms-python.vscode-pylance
+2024-12-26 19:42:41.518 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-12-26 19:42:41.717 [info] Installing extension: ms-python.debugpy {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rb/.vscode/extensions/extensions.json","path":"/home/rb/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-26 19:42:41.719 [info] Installing extension: ms-python.python {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rb/.vscode/extensions/extensions.json","path":"/home/rb/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-26 19:42:41.748 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rb/.vscode/extensions/extensions.json","path":"/home/rb/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-26 19:42:41.755 [info] Installing extension: antfu.theme-vitesse {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rb/.vscode/extensions/extensions.json","path":"/home/rb/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-26 19:42:41.761 [info] Installing extension: equinusocio.vsc-material-theme {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rb/.vscode/extensions/extensions.json","path":"/home/rb/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-26 19:42:41.761 [info] Installing extension: equinusocio.vsc-material-theme-icons {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rb/.vscode/extensions/extensions.json","path":"/home/rb/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-26 19:42:41.775 [info] Installing extension: vscode-icons-team.vscode-icons {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rb/.vscode/extensions/extensions.json","path":"/home/rb/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-26 19:42:41.793 [info] Installing extension: github.github-vscode-theme {"productVersion":{"version":"1.96.2","date":"2024-12-19T10:22:47.216Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rb/.vscode/extensions/extensions.json","path":"/home/rb/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2024-12-26 19:42:42.378 [info] Getting Manifest... ms-python.python
+2024-12-26 19:42:42.487 [info] Getting Manifest... ms-python.python
+2024-12-26 19:42:46.621 [info] Extension signature verification result for antfu.theme-vitesse: Success. Executed: true. Duration: 4391ms.
+2024-12-26 19:42:46.694 [info] Extracted extension to file:///home/rb/.vscode/extensions/antfu.theme-vitesse-0.8.3: antfu.theme-vitesse
+2024-12-26 19:42:46.700 [info] Extension signature verification result for equinusocio.vsc-material-theme: Success. Executed: true. Duration: 4201ms.
+2024-12-26 19:42:46.706 [info] Renamed to /home/rb/.vscode/extensions/antfu.theme-vitesse-0.8.3
+2024-12-26 19:42:46.755 [info] Marked extension as uninstalled antfu.theme-vitesse-0.7.7
+2024-12-26 19:42:46.774 [info] Extension installed successfully: antfu.theme-vitesse vscode-userdata:/home/rb/.vscode/extensions/extensions.json
+2024-12-26 19:42:46.812 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-26 19:42:46.893 [info] Extension signature verification result for github.github-vscode-theme: Success. Executed: true. Duration: 4297ms.
+2024-12-26 19:42:47.047 [info] Extracted extension to file:///home/rb/.vscode/extensions/github.github-vscode-theme-6.3.5: github.github-vscode-theme
+2024-12-26 19:42:47.059 [info] Renamed to /home/rb/.vscode/extensions/github.github-vscode-theme-6.3.5
+2024-12-26 19:42:47.087 [info] Marked extension as uninstalled github.github-vscode-theme-6.3.4
+2024-12-26 19:42:47.121 [info] Extension installed successfully: github.github-vscode-theme vscode-userdata:/home/rb/.vscode/extensions/extensions.json
+2024-12-26 19:42:47.135 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-26 19:42:47.226 [info] Extracted extension to file:///home/rb/.vscode/extensions/equinusocio.vsc-material-theme-34.7.9: equinusocio.vsc-material-theme
+2024-12-26 19:42:47.248 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 4109ms.
+2024-12-26 19:42:47.258 [info] Renamed to /home/rb/.vscode/extensions/equinusocio.vsc-material-theme-34.7.9
+2024-12-26 19:42:47.301 [info] Marked extension as uninstalled equinusocio.vsc-material-theme-34.3.1
+2024-12-26 19:42:47.314 [info] Extension installed successfully: equinusocio.vsc-material-theme vscode-userdata:/home/rb/.vscode/extensions/extensions.json
+2024-12-26 19:42:47.349 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-26 19:42:47.414 [info] Extension signature verification result for vscode-icons-team.vscode-icons: Success. Executed: true. Duration: 3540ms.
+2024-12-26 19:42:47.520 [info] Extension signature verification result for equinusocio.vsc-material-theme-icons: Success. Executed: true. Duration: 3302ms.
+2024-12-26 19:42:47.577 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 4730ms.
+2024-12-26 19:42:48.654 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 1723ms.
+2024-12-26 19:42:49.092 [info] Extracted extension to file:///home/rb/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2024-12-26 19:42:49.128 [info] Renamed to /home/rb/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2024-12-26 19:42:49.152 [info] Marked extension as uninstalled ms-python.debugpy-2024.2.0-linux-x64
+2024-12-26 19:42:49.155 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/rb/.vscode/extensions/extensions.json
+2024-12-26 19:42:49.212 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-26 19:42:50.983 [info] Extracted extension to file:///home/rb/.vscode/extensions/vscode-icons-team.vscode-icons-12.10.0: vscode-icons-team.vscode-icons
+2024-12-26 19:42:51.038 [info] Renamed to /home/rb/.vscode/extensions/vscode-icons-team.vscode-icons-12.10.0
+2024-12-26 19:42:51.062 [info] Marked extension as uninstalled vscode-icons-team.vscode-icons-12.7.0
+2024-12-26 19:42:51.066 [info] Extension installed successfully: vscode-icons-team.vscode-icons vscode-userdata:/home/rb/.vscode/extensions/extensions.json
+2024-12-26 19:42:51.122 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

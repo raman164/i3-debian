@@ -1,0 +1,20 @@
+2024-03-08 19:50:12.132 [info] (Client) Pylance async client (2024.2.3) started with python extension (2024.2.1)
+2024-03-08 19:50:13.153 [info] [Info  - 7:50:13 PM] (3617) Pylance language server 2024.2.3 (pyright version 1.1.348, commit cfb1de0c) starting
+2024-03-08 19:50:13.154 [info] [Info  - 7:50:13 PM] (3617) Server root directory: file:///home/rb/.vscode/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-08 19:50:13.155 [info] [Info  - 7:50:13 PM] (3617) Starting service instance "python"
+2024-03-08 19:50:13.211 [info] [Info  - 7:50:13 PM] (3617) Setting pythonPath for service "python": "/bin/python3"
+2024-03-08 19:50:13.213 [info] [Info  - 7:50:13 PM] (3617) Setting environmentName for service "python": "3.11.2 (global)"
+2024-03-08 19:50:13.286 [info] [Info  - 7:50:13 PM] (3617) Assuming Python version 3.11
+2024-03-08 19:50:13.501 [info] [Info  - 7:50:13 PM] (3617) Found 1 source file
+2024-03-08 19:50:14.201 [info] [Info  - 7:50:14 PM] (3617) Background analysis(1) root directory: file:///home/rb/.vscode/extensions/ms-python.vscode-pylance-2024.2.3/dist
+2024-03-08 19:50:14.204 [info] [Info  - 7:50:14 PM] (3617) Background analysis(1) started
+2024-03-08 19:50:14.428 [info] [Info  - 7:50:14 PM] (3617) Indexer background runner(2) root directory: file:///home/rb/.vscode/extensions/ms-python.vscode-pylance-2024.2.3/dist (index)
+2024-03-08 19:50:14.428 [info] [Info  - 7:50:14 PM] (3617) Indexing(2) started
+2024-03-08 19:50:14.952 [info] [Info  - 7:50:14 PM] (3617) scanned(2) 38 files over 1 exec env
+2024-03-08 19:50:15.541 [info] [Info  - 7:50:15 PM] (3617) indexed(2) 18 files over 1 exec env
+2024-03-08 19:50:15.595 [info] [Info  - 7:50:15 PM] (3617) Indexing finished(2).
+2024-03-08 21:31:58.200 [info] [Info  - 9:31:58 PM] (3617) Indexer background runner(3) root directory: file:///home/rb/.vscode/extensions/ms-python.vscode-pylance-2024.2.3/dist (refresh)
+2024-03-08 21:31:58.200 [info] [Info  - 9:31:58 PM] (3617) Indexing(3) started
+2024-03-08 21:31:58.684 [info] [Info  - 9:31:58 PM] (3617) scanned(3) 38 files over 1 exec env
+2024-03-08 21:31:59.272 [info] [Info  - 9:31:59 PM] (3617) indexed(3) 18 files over 1 exec env
+2024-03-08 21:31:59.323 [info] [Info  - 9:31:59 PM] (3617) Indexing finished(3).

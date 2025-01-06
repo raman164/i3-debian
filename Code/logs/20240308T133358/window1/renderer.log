@@ -1,0 +1,17 @@
+2024-03-08 13:34:00.619 [info] Started local extension host with pid 3544.
+2024-03-08 13:34:00.788 [info] Started initializing default profile extensions in extensions installation folder. file:///home/rb/.vscode/extensions
+2024-03-08 13:34:01.296 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/rb/.vscode/extensions
+2024-03-08 13:34:03.910 [info] [perf] Render performance baseline is 36ms
+2024-03-08 13:35:54.414 [info] Settings Sync: Updating due to change in sessions
+2024-03-08 13:35:54.415 [info] Settings Sync: Updated current session f8cdef31-a31e-4b4a-93e4-5f571e91255a/1:live.com:00030000D4EB3309/7ac6ef8f-0cd5-420a-bcc7-ae70c0b240bd
+2024-03-08 13:36:58.727 [error] Cancelled: Canceled
+    at ie.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:781:28456)
+    at async ie.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:781:25333)
+    at async ie.getExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:781:22267)
+    at async Y.getExtensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2941:12529)
+    at async ve.Gc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2877:24913)
+    at async ve.Pc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2877:27577)
+    at async ve.mc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2877:14515)
+    at async vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2877:12817
+2024-03-08 13:38:18.470 [info] Started local extension host with pid 4589.
+2024-03-08 13:38:21.911 [info] [perf] Render performance baseline is 52ms

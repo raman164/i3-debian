@@ -1,0 +1,7 @@
+2024-03-08 19:17:04.513 [info] update#setState idle
+2024-03-08 19:17:34.514 [info] update#setState checking for updates
+2024-03-08 19:17:34.595 [info] update#setState idle
+2024-03-08 19:50:01.517 [info] Extension host with pid 2193 exited with code: 0, signal: unknown.
+2024-03-08 19:50:01.523 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#editorWorkerService
+2024-03-08 19:50:01.525 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-03-08 19:50:01.525 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 2179]: crashed with code 15 and reason 'killed'

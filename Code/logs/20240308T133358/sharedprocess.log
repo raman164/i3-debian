@@ -1,0 +1,181 @@
+2024-03-08 13:34:01.403 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-08 13:35:55.733 [info] Getting Manifest... github.github-vscode-theme
+2024-03-08 13:35:55.733 [info] Getting Manifest... antfu.theme-vitesse
+2024-03-08 13:35:55.734 [info] Getting Manifest... equinusocio.vsc-community-material-theme
+2024-03-08 13:35:55.734 [info] Getting Manifest... vscode-icons-team.vscode-icons
+2024-03-08 13:35:55.734 [info] Getting Manifest... teabyii.ayu
+2024-03-08 13:35:55.734 [info] Getting Manifest... equinusocio.vsc-material-theme-icons
+2024-03-08 13:35:55.735 [info] Getting Manifest... s-nlf-fh.glassit
+2024-03-08 13:35:55.735 [info] Getting Manifest... equinusocio.vsc-material-theme
+2024-03-08 13:35:55.736 [info] Getting Manifest... ms-vscode.cpptools-themes
+2024-03-08 13:35:55.736 [info] Getting Manifest... ms-python.debugpy
+2024-03-08 13:35:55.736 [info] Getting Manifest... ms-python.python
+2024-03-08 13:35:55.737 [info] Getting Manifest... ms-python.vscode-pylance
+2024-03-08 13:35:55.861 [info] Installing extension: github.github-vscode-theme
+2024-03-08 13:35:55.861 [info] Installing extension: ms-python.python
+2024-03-08 13:35:55.861 [info] Installing extension: ms-vscode.cpptools-themes
+2024-03-08 13:35:55.862 [info] Installing extension: ms-python.debugpy
+2024-03-08 13:35:55.862 [info] Installing extension: ms-python.vscode-pylance
+2024-03-08 13:35:55.862 [info] Installing extension: s-nlf-fh.glassit
+2024-03-08 13:35:55.862 [info] Installing extension: teabyii.ayu
+2024-03-08 13:35:55.862 [info] Installing extension: equinusocio.vsc-material-theme
+2024-03-08 13:35:55.862 [info] Installing extension: equinusocio.vsc-community-material-theme
+2024-03-08 13:35:55.863 [info] Installing extension: antfu.theme-vitesse
+2024-03-08 13:35:55.863 [info] Installing extension: equinusocio.vsc-material-theme-icons
+2024-03-08 13:35:55.863 [info] Installing extension: vscode-icons-team.vscode-icons
+2024-03-08 13:35:55.863 [info] Installing the extension without checking dependencies and pack github.github-vscode-theme
+2024-03-08 13:35:55.863 [info] Installing the extension without checking dependencies and pack ms-python.python
+2024-03-08 13:35:55.863 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools-themes
+2024-03-08 13:35:55.864 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2024-03-08 13:35:55.864 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2024-03-08 13:35:55.864 [info] Installing the extension without checking dependencies and pack s-nlf-fh.glassit
+2024-03-08 13:35:55.864 [info] Installing the extension without checking dependencies and pack teabyii.ayu
+2024-03-08 13:35:55.864 [info] Installing the extension without checking dependencies and pack equinusocio.vsc-material-theme
+2024-03-08 13:35:55.864 [info] Installing the extension without checking dependencies and pack equinusocio.vsc-community-material-theme
+2024-03-08 13:35:55.865 [info] Installing the extension without checking dependencies and pack antfu.theme-vitesse
+2024-03-08 13:35:55.865 [info] Installing the extension without checking dependencies and pack equinusocio.vsc-material-theme-icons
+2024-03-08 13:35:55.865 [info] Installing the extension without checking dependencies and pack vscode-icons-team.vscode-icons
+2024-03-08 13:36:02.082 [info] Extension signature is verified: teabyii.ayu
+2024-03-08 13:36:02.309 [info] Extension signature is verified: github.github-vscode-theme
+2024-03-08 13:36:02.536 [info] Extension signature is verified: ms-vscode.cpptools-themes
+2024-03-08 13:36:02.603 [info] Extension signature is verified: antfu.theme-vitesse
+2024-03-08 13:36:02.629 [info] Extracted extension to file:///home/rb/.vscode/extensions/github.github-vscode-theme-6.3.4: github.github-vscode-theme
+2024-03-08 13:36:02.652 [info] Renamed to /home/rb/.vscode/extensions/github.github-vscode-theme-6.3.4
+2024-03-08 13:36:02.658 [info] Extension signature is verified: equinusocio.vsc-material-theme-icons
+2024-03-08 13:36:02.663 [info] Extracting extension completed. github.github-vscode-theme
+2024-03-08 13:36:02.749 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:36:02.787 [info] Extracted extension to file:///home/rb/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0: ms-vscode.cpptools-themes
+2024-03-08 13:36:02.788 [info] Extension signature is verified: equinusocio.vsc-community-material-theme
+2024-03-08 13:36:02.790 [info] Extension signature is verified: equinusocio.vsc-material-theme
+2024-03-08 13:36:02.819 [info] Renamed to /home/rb/.vscode/extensions/ms-vscode.cpptools-themes-2.0.0
+2024-03-08 13:36:02.845 [info] Extracting extension completed. ms-vscode.cpptools-themes
+2024-03-08 13:36:02.948 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:36:02.950 [info] Extension signature is verified: ms-python.python
+2024-03-08 13:36:02.999 [info] Extension signature is verified: ms-python.vscode-pylance
+2024-03-08 13:36:03.007 [info] Extracted extension to file:///home/rb/.vscode/extensions/antfu.theme-vitesse-0.7.6: antfu.theme-vitesse
+2024-03-08 13:36:03.019 [info] Extension signature is verified: s-nlf-fh.glassit
+2024-03-08 13:36:03.025 [info] Renamed to /home/rb/.vscode/extensions/antfu.theme-vitesse-0.7.6
+2024-03-08 13:36:03.036 [info] Extracting extension completed. antfu.theme-vitesse
+2024-03-08 13:36:03.038 [info] Extension signature is verified: vscode-icons-team.vscode-icons
+2024-03-08 13:36:03.084 [info] Extension signature is verified: ms-python.debugpy
+2024-03-08 13:36:03.092 [info] Extracted extension to file:///home/rb/.vscode/extensions/equinusocio.vsc-community-material-theme-1.4.7: equinusocio.vsc-community-material-theme
+2024-03-08 13:36:03.103 [info] Renamed to /home/rb/.vscode/extensions/equinusocio.vsc-community-material-theme-1.4.7
+2024-03-08 13:36:03.112 [info] Extracting extension completed. equinusocio.vsc-community-material-theme
+2024-03-08 13:36:03.467 [info] Extracted extension to file:///home/rb/.vscode/extensions/teabyii.ayu-1.0.5: teabyii.ayu
+2024-03-08 13:36:03.478 [info] Renamed to /home/rb/.vscode/extensions/teabyii.ayu-1.0.5
+2024-03-08 13:36:03.484 [info] Extracting extension completed. teabyii.ayu
+2024-03-08 13:36:03.485 [info] Extracted extension to file:///home/rb/.vscode/extensions/equinusocio.vsc-material-theme-34.3.1: equinusocio.vsc-material-theme
+2024-03-08 13:36:03.499 [info] Renamed to /home/rb/.vscode/extensions/equinusocio.vsc-material-theme-34.3.1
+2024-03-08 13:36:03.505 [info] Extracting extension completed. equinusocio.vsc-material-theme
+2024-03-08 13:36:03.569 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:36:03.660 [info] Extracted extension to file:///home/rb/.vscode/extensions/s-nlf-fh.glassit-0.2.6: s-nlf-fh.glassit
+2024-03-08 13:36:03.668 [info] Renamed to /home/rb/.vscode/extensions/s-nlf-fh.glassit-0.2.6
+2024-03-08 13:36:03.673 [info] Extracting extension completed. s-nlf-fh.glassit
+2024-03-08 13:36:03.765 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:36:04.955 [info] Extracted extension to file:///home/rb/.vscode/extensions/ms-python.debugpy-2024.2.0-linux-x64: ms-python.debugpy
+2024-03-08 13:36:04.966 [info] Renamed to /home/rb/.vscode/extensions/ms-python.debugpy-2024.2.0-linux-x64
+2024-03-08 13:36:04.971 [info] Extracting extension completed. ms-python.debugpy
+2024-03-08 13:36:05.055 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:36:06.739 [info] Extracted extension to file:///home/rb/.vscode/extensions/vscode-icons-team.vscode-icons-12.7.0: vscode-icons-team.vscode-icons
+2024-03-08 13:36:06.750 [info] Renamed to /home/rb/.vscode/extensions/vscode-icons-team.vscode-icons-12.7.0
+2024-03-08 13:36:06.756 [info] Extracting extension completed. vscode-icons-team.vscode-icons
+2024-03-08 13:36:06.841 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:36:09.842 [info] Extracted extension to file:///home/rb/.vscode/extensions/ms-python.python-2024.2.1: ms-python.python
+2024-03-08 13:36:09.860 [info] Renamed to /home/rb/.vscode/extensions/ms-python.python-2024.2.1
+2024-03-08 13:36:09.866 [info] Extracting extension completed. ms-python.python
+2024-03-08 13:36:09.950 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:36:10.393 [info] Extracted extension to file:///home/rb/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.5.0: equinusocio.vsc-material-theme-icons
+2024-03-08 13:36:10.402 [info] Renamed to /home/rb/.vscode/extensions/equinusocio.vsc-material-theme-icons-3.5.0
+2024-03-08 13:36:10.404 [info] Extracting extension completed. equinusocio.vsc-material-theme-icons
+2024-03-08 13:36:10.484 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:36:12.864 [info] Extracted extension to file:///home/rb/.vscode/extensions/ms-python.vscode-pylance-2024.2.3: ms-python.vscode-pylance
+2024-03-08 13:36:12.879 [info] Renamed to /home/rb/.vscode/extensions/ms-python.vscode-pylance-2024.2.3
+2024-03-08 13:36:12.882 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-03-08 13:36:12.895 [info] Extension installed successfully: github.github-vscode-theme
+2024-03-08 13:36:12.895 [info] Extension installed successfully: ms-vscode.cpptools-themes
+2024-03-08 13:36:12.896 [info] Extension installed successfully: antfu.theme-vitesse
+2024-03-08 13:36:12.896 [info] Extension installed successfully: equinusocio.vsc-community-material-theme
+2024-03-08 13:36:12.896 [info] Extension installed successfully: teabyii.ayu
+2024-03-08 13:36:12.896 [info] Extension installed successfully: equinusocio.vsc-material-theme
+2024-03-08 13:36:12.896 [info] Extension installed successfully: s-nlf-fh.glassit
+2024-03-08 13:36:12.897 [info] Extension installed successfully: ms-python.debugpy
+2024-03-08 13:36:12.897 [info] Extension installed successfully: vscode-icons-team.vscode-icons
+2024-03-08 13:36:12.897 [info] Extension installed successfully: ms-python.python
+2024-03-08 13:36:12.897 [info] Extension installed successfully: equinusocio.vsc-material-theme-icons
+2024-03-08 13:36:12.897 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-03-08 13:36:12.978 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/rb/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-08 13:38:19.296 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)

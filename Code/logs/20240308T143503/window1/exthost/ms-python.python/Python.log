@@ -1,0 +1,19 @@
+2024-03-08 14:35:05.883 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-08 14:35:05.883 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-08 14:35:05.883 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-08 14:35:05.883 [info] Experiment 'pythonTestAdapter' is active
+2024-03-08 14:35:05.960 [info] Default formatter is set to null for workspace /home/rb/python
+2024-03-08 14:35:05.982 [info] Test server listening.
+2024-03-08 14:35:05.983 [info] Python interpreter path: /bin/python3
+2024-03-08 14:35:08.312 [info] Starting Pylance language server.
+2024-03-08 14:35:23.435 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:28.681 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:30.382 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:32.989 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:37.173 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:43.654 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:46.267 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:48.651 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:51.419 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:35:53.560 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 14:36:03.207 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py

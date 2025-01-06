@@ -1,0 +1,40 @@
+2024-03-08 13:37:13.720 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-08 13:37:13.720 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-08 13:37:13.720 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-08 13:37:13.720 [info] Experiment 'pythonTestAdapter' is active
+2024-03-08 13:37:13.782 [info] Test server listening.
+2024-03-08 13:37:13.790 [info] > conda info --json
+2024-03-08 13:37:13.806 [info] Found: /bin/python3 --> /bin/python3.11
+2024-03-08 13:37:13.807 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-03-08 13:37:13.808 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-08 13:37:13.808 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-08 13:37:13.808 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-08 13:37:13.808 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-08 13:37:13.808 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-08 13:37:13.808 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-08 13:37:13.821 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-03-08 13:37:13.821 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-03-08 13:37:13.853 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-08 13:37:13.884 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-08 13:37:13.932 [info] Python interpreter path: /bin/python3
+2024-03-08 13:37:14.936 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-03-08 13:37:15.714 [info] Starting Pylance language server.
+2024-03-08 13:37:58.656 [info] Shell integration status changed, can confirm it's working.
+2024-03-08 13:38:32.803 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-03-08 13:38:32.803 [info] Experiment 'pythonREPLSmartSend' is active
+2024-03-08 13:38:32.803 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-03-08 13:38:32.803 [info] Experiment 'pythonTestAdapter' is active
+2024-03-08 13:38:32.828 [info] Default formatter is set to null for workspace /home/rb/python
+2024-03-08 13:38:32.842 [info] Test server listening.
+2024-03-08 13:38:32.845 [info] Python interpreter path: /bin/python3
+2024-03-08 13:38:33.132 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-03-08 13:38:33.139 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.2.1/pythonFiles/interpreterInfo.py
+2024-03-08 13:38:33.139 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-08 13:38:33.139 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-08 13:38:33.139 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2024-03-08 13:38:34.188 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2024-03-08 13:38:34.416 [info] Starting Pylance language server.
+2024-03-08 13:38:38.503 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 13:38:42.226 [info] Discover tests for workspace name: python - uri: /home/rb/python/main.py
+2024-03-08 13:38:46.661 [info] Send text to terminal: /bin/python3 /home/rb/python/main.py
+2024-03-08 13:38:46.924 [info] Shell integration status changed, can confirm it's working.

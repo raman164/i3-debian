@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.defaultProfile.linux": "fish",
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "glassit.alpha": 240,
+    "workbench.editor.editorActionsLocation": "titleBar",
+    "window.customTitleBarVisibility": "auto",
+    "workbench.editor.showTabs": "single",
+    "python.defaultInterpreterPath": "/bin/python3"
+}
