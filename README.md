@@ -1,3 +1,5 @@
 ## .dotfiles i3 debian based
 <br>
- - running as VM on my proxmox server.
+ - Running as VM on my proxmox server.
+ <br>
+  - Status Bar: Bumblebee
