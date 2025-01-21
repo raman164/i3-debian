@@ -1,4 +1,4 @@
-## .dotfiles i3 debian based
+### .dotfiles i3 debian based
 <br>
  - Running as VM on my proxmox server.
  <br>
